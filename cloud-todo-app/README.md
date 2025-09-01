@@ -1,6 +1,6 @@
 # Cloud-Native To-Do App
 
-A resume-ready project showcasing a full cloud-native stack:
+
 
 **Frontend (HTML/JS) → Backend (FastAPI) → PostgreSQL**
 → Docker → Kubernetes → CI/CD (GitHub Actions) → Terraform (EKS + RDS) → Monitoring (Prometheus + Grafana).
